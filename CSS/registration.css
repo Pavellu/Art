@@ -1,0 +1,14 @@
+#registration {
+    float: right;
+    padding-left: 8px;
+}
+
+.reg{
+    background:rgb(243, 209, 74);
+    text-align: center;
+    padding-left: 8px;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 0.75;
+    font-weight: 800;
+}
